@@ -1,0 +1,42 @@
+img{
+	width:100%;
+}
+
+.background-img{
+	background: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/19/22/hockey-gb.jpg?w968h681) no-repeat center;
+	background-size: cover;
+	height:100vh;
+}
+
+
+h1{
+	font-size: 100;
+	text-transform:uppercase;
+	color: #9B6CE8;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+.purple{
+	background-color: #9B6CE8;
+	
+}
+
+.space-title{
+	padding-top: 50vh;
+}
+
+h2{
+	color:white;
+}
+
+p{
+	color:white;
+}
+
+h3{
+	font-size: 40;
+	color:#9B6CE8;
+}
